@@ -1,7 +1,6 @@
 body{
-  background-color: #f4fff2;
-  border: 40px solid transparent;
-  border-image: url(border1.jpg) 30 round;
+  background-image: url("bg.jpg");
+  background-color: #cccccc;
 
 }
 /* ----------Student info, links to other pages---------- */

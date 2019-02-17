@@ -3,6 +3,7 @@ body{
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-size:contain;
+  background-attachment: fixed;
 
 }
 /* ----------Student info, links to other pages---------- */

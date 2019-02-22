@@ -8,10 +8,8 @@ body{
 }
 /* ----------Student info, links to other pages---------- */
 div.header{
-  border-style: solid;
-  border-color: black;
   margin: auto;
-  width: 60%;
+  width: 50%;
   border: 3px solid #FEFEFE;
   padding: 10px;
 }
@@ -42,17 +40,20 @@ div.nav{
 /* ---------------------------------------- */
 /* ----------Home Page---------- */
 h1{
-  border-style: solid;
-  border-color: black;
-  width: 500px;
+  margin: auto;
+  width: 50%;
+  border: 3px solid #FEFEFE;
+  padding: 10px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
 div.day-box.PREP{
-  border-style: solid;
-  border-color: black;
-  font-family: 'Comfortaa', cursive;
-  width: 500px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: auto;
+  width: 50%;
+  border: 5px solid #FEFEFE;
+  padding: 10px;
+  
 }
 
 div.day{
@@ -89,10 +90,11 @@ div.lab-box{
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
 div.day-box.CURRENT{
-  border-style: solid;
-  border-color: black;
-  font-family: 'Comfortaa', cursive;
-  width: 500px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: auto;
+  width: 50%;
+  border: 5px solid #FEFEFE;
+  padding: 10px;
 }
 
 div.assignmentWidget.GRADING{
@@ -100,10 +102,11 @@ div.assignmentWidget.GRADING{
 }
 
 div.day-box.COMPLETED{
-  border-style: solid;
-  border-color: black;
-  font-family: 'Comfortaa', cursive;
-  width: 500px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: auto;
+  width: 50%;
+  border: 5px solid #FEFEFE;
+  padding: 10px;
 }
 
 div.grade{

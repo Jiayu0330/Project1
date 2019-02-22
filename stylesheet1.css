@@ -10,7 +10,10 @@ body{
 div.header{
   border-style: solid;
   border-color: black;
-  width: 500px;
+  margin: auto;
+  width: 60%;
+  border: 3px solid #FEFEFE;
+  padding: 10px;
 }
 
 div.person_info{

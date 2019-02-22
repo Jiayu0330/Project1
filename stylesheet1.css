@@ -1,17 +1,17 @@
 body{
-  background-image: url("b5.jpg");
+  background-image: url(b5.jpg);
   background-color: #cccccc;
-  background-repeat: fixed;
+  background-attachment: fixed;
   background-size: cover;
-  color: #FEFEFE;
+  color: #502929;
 
 }
 /* ----------Student info, links to other pages---------- */
 div.header{
-  margin: auto;
   width: 50%;
-  border: 3px solid #FEFEFE;
+  border: 10px solid #d4ccb1;
   padding: 10px;
+  margin: auto;
 }
 
 div.person_info{
@@ -40,19 +40,20 @@ div.nav{
 /* ---------------------------------------- */
 /* ----------Home Page---------- */
 h1{
-  margin: auto;
-  width: 50%;
-  border: 3px solid #FEFEFE;
-  padding: 10px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #d4ccb1;
+    padding: 10px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
 div.day-box.PREP{
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  margin: auto;
-  width: 50%;
-  border: 5px solid #FEFEFE;
-  padding: 10px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #d4ccb1;
+    padding: 10px;
   
 }
 
@@ -90,11 +91,11 @@ div.lab-box{
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
 div.day-box.CURRENT{
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  margin: auto;
-  width: 50%;
-  border: 5px solid #FEFEFE;
-  padding: 10px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #d4ccb1;
+    padding: 10px;
 }
 
 div.assignmentWidget.GRADING{
@@ -102,11 +103,11 @@ div.assignmentWidget.GRADING{
 }
 
 div.day-box.COMPLETED{
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  margin: auto;
-  width: 50%;
-  border: 5px solid #FEFEFE;
-  padding: 10px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #d4ccb1;
+    padding: 10px;
 }
 
 div.grade{

@@ -52,12 +52,13 @@ h1{
 div.day-box.PREP{
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
-    width: 50%;
-    border: 5px solid #d4ccb1;
+    width: 50%
     padding: 10px;
     background: #d4ccb1;
     margin-top: 20px;
-    border-image: url(border1.png) 30 round;
+    border: 5px solid #d4ccb1;
+    border-image: url(border2.png) 30 round;
+    border-radius:25px;
   
 }
 

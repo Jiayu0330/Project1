@@ -12,6 +12,8 @@ div.header{
   border: 10px solid #d4ccb1;
   padding: 10px;
   margin: auto;
+  background: #d4ccb1;
+  margin-top: 20px;
 }
 
 div.person_info{
@@ -43,7 +45,6 @@ h1{
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
     width: 50%;
-    border: 5px solid #d4ccb1;
     padding: 10px;
 }
 /* ---------------------------------------- */
@@ -54,6 +55,9 @@ div.day-box.PREP{
     width: 50%;
     border: 5px solid #d4ccb1;
     padding: 10px;
+    background: #d4ccb1;
+    margin-top: 20px;
+    border-image: url(border1.png) 30 round;
   
 }
 
@@ -96,6 +100,8 @@ div.day-box.CURRENT{
     width: 50%;
     border: 5px solid #d4ccb1;
     padding: 10px;
+    background: #d4ccb1;
+    margin-top: 20px;
 }
 
 div.assignmentWidget.GRADING{

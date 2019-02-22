@@ -52,19 +52,16 @@ h1{
 div.day-box.PREP{
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
-    width: 50%;
-    padding: 10px;
-    background: #d4ccb1;
+    width: 40%;
+    padding: 5px;
+    background: #dccdb1d1;
     margin-top: 20px;
-    border: 5px solid #d4ccb1;
-    border-radius:25px;
+    border: 5px solid #dccdb1d1;
     border-image-source: url(border3.png);
-    border-width: 30px;
-    border-image-slice: 40%;
-    border-image-outset: 7.4px;
+    border-width: 40px;
+    border-image-slice: 30%;
     border-image-repeat: round;
-    border-radius: 25px;
-  
+    border-radius: 22px;
 }
 
 div.day{
@@ -103,11 +100,16 @@ div.lab-box{
 div.day-box.CURRENT{
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
-    width: 50%;
-    border: 5px solid #d4ccb1;
-    padding: 10px;
-    background: #d4ccb1;
+    width: 40%;
+    padding: 5px;
+    background: #dccdb1d1;
     margin-top: 20px;
+    border: 5px solid #dccdb1d1;
+    border-image-source: url(border3.png);
+    border-width: 40px;
+    border-image-slice: 30%;
+    border-image-repeat: round;
+    border-radius: 22px;
 }
 
 div.assignmentWidget.GRADING{
@@ -117,9 +119,16 @@ div.assignmentWidget.GRADING{
 div.day-box.COMPLETED{
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
-    width: 50%;
-    border: 5px solid #d4ccb1;
-    padding: 10px;
+    width: 40%;
+    padding: 5px;
+    background: #dccdb1d1;
+    margin-top: 20px;
+    border: 5px solid #dccdb1d1;
+    border-image-source: url(border3.png);
+    border-width: 40px;
+    border-image-slice: 30%;
+    border-image-repeat: round;
+    border-radius: 22px;
 }
 
 div.grade{

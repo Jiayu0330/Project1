@@ -8,8 +8,8 @@ body{
 }
 /* ----------Student info, links to other pages---------- */
 .header{
-  width: 190px;
-  height: 320px;
+  width: 180px;
+  height: 350px;
   position: fixed;
   z-index: 1;
   top: 280px;
@@ -20,7 +20,7 @@ body{
 
 .person_info{
   background: #a78167;
-  height: 80px;
+  height: 110px;
 }
 
 img.person_image{
@@ -36,11 +36,9 @@ img.person_image{
 }
 
 span.username{
-    padding: 8px 8px 8px 32px;
+    padding: 8px 8px 8px 0px;
     /* text-decoration: underline; */
-    font-size: 25px;
-    text-decoration-line: underline;
-    text-decoration-style: dashed;
+    font-size: 20px;
     color: #251e1a;
 }
 

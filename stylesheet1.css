@@ -4,6 +4,8 @@ body{
   background-attachment: fixed;
   background-size: cover;
   color: #502929;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size:18px;
 
 }
 /* ----------Student info, links to other pages---------- */
@@ -38,7 +40,7 @@ img.person_image{
 }
 
 span.username{
-  padding: 8px 8px 8px 10px;
+  padding: 8px 8px 8px 2px;
   /* text-decoration: underline; */
   font-size: 20px;
   font-weight: bold;
@@ -60,7 +62,6 @@ span.username{
 /* ---------------------------------------- */
 /* ----------Home Page---------- */
 h1{
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
     width: 50%;
     padding: 10px;
@@ -68,7 +69,6 @@ h1{
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
 .day-box.PREP{
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
     width: 40%;
     padding: 5px;
@@ -116,7 +116,6 @@ h1{
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
 .day-box.CURRENT{
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
     width: 40%;
     padding: 5px;
@@ -135,7 +134,6 @@ h1{
 }
 
 .day-box.COMPLETED{
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: auto;
     width: 40%;
     padding: 5px;

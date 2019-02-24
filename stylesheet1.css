@@ -9,7 +9,7 @@ body{
 /* ----------Student info, links to other pages---------- */
 .header{
   width: 180px;
-  height: 350px;
+  height: 380px;
   position: fixed;
   z-index: 1;
   top: 280px;
@@ -20,11 +20,13 @@ body{
 
 .person_info{
   background: #a78167;
-  height: 110px;
+  height: 120px;
 }
 
 img.person_image{
-
+  border: 5px solid #443028;
+  width: 110px;
+  height: 80px;
 }
 
 #nameSound25{
@@ -36,14 +38,14 @@ img.person_image{
 }
 
 span.username{
-    padding: 8px 8px 8px 0px;
-    /* text-decoration: underline; */
-    font-size: 20px;
-    color: #251e1a;
+  padding: 8px 8px 8px 10px;
+  /* text-decoration: underline; */
+  font-size: 20px;
+  color: #251e1a;
 }
 
 .nav a{
-  padding: 8px 8px 8px 32px;
+  padding: 10px 10px 10px 10px;
   text-decoration: underline;
   font-size: 25px;
   color: #ead6bd;

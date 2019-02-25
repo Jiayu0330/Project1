@@ -173,7 +173,7 @@ h1{
 /* ---------------------------------------- */
 /* ----------Seating Section---------- */
 table{
-  margin: 0px auto;
+  margin: 100px auto;
 }
 
 form.account_form{
@@ -191,11 +191,17 @@ table img.person_image{
 table.person_info{
 }
 
-table.username{
+table span.username{
+    padding: 1px 1px 1px 5px;
+    text-decoration: double;
+    font-size: 20px;
+    font-weight: bold;
+    color: #502929;
 }
 
 tbody{
   background-color: #eadcc8;
+  font-size: 18px;
 }
 
 th{

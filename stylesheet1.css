@@ -21,8 +21,8 @@ body{
 }
 
 .person_info{
-  background: #734e3c;
-  height: 125px;
+    background: #16253f;
+    height: 125px;
 }
 
 img.person_image{
@@ -65,12 +65,12 @@ span.username{
 /* ----------Home Page---------- */
 h1{
     margin: auto;
-    background-color: #d2d2d2b0;
+    background-color: #593635ed;
     text-align: center;
     width: 30%;
     line-height: 68px;
     font-family: "Times New Roman";
-    color: #8c6159;
+    color: #ead6bd;
     position: fixed;
     left: 35%;
     top: 10px;
@@ -173,10 +173,10 @@ h1{
 /* ---------------------------------------- */
 /* ----------Seating Section---------- */
 table{
-  margin: 100px auto;
-  width: 45%;
-  border-spacing: 3px;
-  background-color: #e0d0b6;
+    margin: 100px auto;
+    width: 35%;
+    border-spacing: 3px;
+    background-color: #ead6bd;
 }
 
 form.account_form{
@@ -197,7 +197,7 @@ table img.person_image{
 
 table div.person_info{
     background: #16253f;
-    height: 150px;
+    height: 230px;
 }
 
 table span.username{
@@ -213,10 +213,12 @@ tbody{
 }
 
 th{
-    font-size: 20px;
+    font-size: 22px;
     font-family: "Times New Roman";
     font-weight: bold;
-    color: #b42114;
+    color: #593635;
+    background-color: #ffffff;
+    padding: 10px;
 }
 
 tr{

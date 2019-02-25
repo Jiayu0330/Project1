@@ -75,7 +75,7 @@ h1{
     margin: auto;
     width: 40%;
     padding: 5px;
-    background: #dccdb1d1;
+    background: #ffffff;
     margin-top: 20px;
     border: 5px solid #dccdb1d1;
     border-image: url(border5.png) 78 67 73 round;
@@ -83,34 +83,27 @@ h1{
 }
 
 .day{
-
-}
-
-.notes{
-
+  background-color: #e9d6ba;
 }
 
 .reading-box{
-
+  background-color: #cea36d;
 }
 
-.reading{
-
-}
-
-.assignment-label{
-
+.grading-box{
+  background-color:black;
 }
 
 .prep-box{
-
+  background-color: #6f8faf;
 }
 
 .assignment_link{
-
+  color: #92211c;
 }
 
 .lab-box{
+  background-color: #c77a61;
 }
 
 /* ---------------------------------------- */
@@ -119,7 +112,7 @@ h1{
     margin: auto;
     width: 40%;
     padding: 5px;
-    background: #dccdb1d1;
+    background: #ffffff;
     margin-top: 20px;
     border: 5px solid #dccdb1d1;
     border-image-source: url(border7.png);
@@ -137,7 +130,7 @@ h1{
     margin: auto;
     width: 40%;
     padding: 5px;
-    background: #dccdb1d1;
+    background: #ffffff;
     margin-top: 20px;
     border: 5px solid #dccdb1d1;
     border-image: url(border10.png) 75 129 112 63 round;

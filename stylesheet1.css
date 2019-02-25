@@ -82,12 +82,8 @@ h1{
 }
 
 .day-box.PREP a{
-  padding: 10px 10px 10px 10px;
-  text-decoration: underline;
-  font-size: 25px;
-  color: #ead6bd;
-  display: block;
-  transition: 0.3s;
+    text-decoration: underline;
+    transition: 0.3s;
 }
 
 .day-box.PREP a:hover{
@@ -104,6 +100,14 @@ h1{
     border-image: url(border9.png) 46 45 46 round;
     border-width: 64px;
 }
+
+.day-box.CURRENT a{
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+.day-box.CURRENT a:hover{
+  color: #d6cebe;
 /* ---------------------------------------- */
 /* ----------Completed Section---------- */
 .day-box.COMPLETED{
@@ -116,20 +120,33 @@ h1{
     border-width: 64px;    
 }
 
+.day-box.COMPLETED a{
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+.day-box.COMPLETED a:hover{
+  color: #d6cebe;
+
 .day{
   background-color: #e9d6ba;
+  padding: 10px;
+  font-style:italic;
 }
 
 .reading-box{
   background-color: #cea36d;
+  padding: 10px;
 }
 
 .grading-box{
   background-color: #cc8f8f;
+  padding: 10px;
 }
 
 .prep-box{
   background-color: #6f8faf;
+  padding: 10px;
 }
 
 .assignment_link{
@@ -138,6 +155,7 @@ h1{
 
 .lab-box{
   background-color: #c77a61;
+  padding: 10px;
 }
 
 .assignment-label{

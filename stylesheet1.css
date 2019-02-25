@@ -21,7 +21,7 @@ body{
 }
 
 .person_info{
-  background: ##c5a793;
+  background: #997467;
   height: 120px;
 }
 
@@ -44,7 +44,7 @@ span.username{
   /* text-decoration: underline; */
   font-size: 20px;
   font-weight: bold;
-  color: #443028;
+  color: #f3e5e0;
 }
 
 .nav a{
@@ -87,7 +87,7 @@ h1{
 }
 
 .day-box.PREP a:hover{
-  color: #ead6bd;
+  color: #92211c;
 }
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
@@ -107,7 +107,7 @@ h1{
 }
 
 .day-box.CURRENT a:hover{
-  color: #ead6bd;
+  color: #92211c;
 }
 /* ---------------------------------------- */
 /* ----------Completed Section---------- */
@@ -127,7 +127,7 @@ h1{
 }
 
 .day-box.COMPLETED a:hover{
-  color: #ead6bd;
+  color: #92211c;
 }
 
 .day{

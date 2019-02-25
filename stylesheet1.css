@@ -191,13 +191,24 @@ table img.person_image{
 table.person_info{
 }
 
+table.username{
+}
+
 tbody{
+  background-color: #eadcc8;
 }
 
 th{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    color: #b42114;
 }
 
 tr{
+}
+
+td{
 }
 
 svg{

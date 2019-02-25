@@ -174,6 +174,9 @@ h1{
 /* ----------Seating Section---------- */
 table{
   margin: 100px auto;
+  width: 45%;
+  border-spacing: 3px;
+  background-color: #e0d0b6;
 }
 
 form.account_form{
@@ -186,21 +189,26 @@ input{
 }
 
 table img.person_image{
+    border: 2px solid #ebdac0;
+    width: 220px;
+    height: 160px;
+    margin: 15px 10px 10px 10px;
 }
 
-table.person_info{
+table tbody tr td.person_info{
+    background: #16253f;
+    height: 150px;
 }
 
 table span.username{
     padding: 1px 1px 1px 5px;
     text-decoration: double;
     font-size: 20px;
-    font-weight: bold;
-    color: #502929;
+    color: #fafafa;
+    font-family: "Times New Roman";
 }
 
 tbody{
-  background-color: #eadcc8;
   font-size: 18px;
 }
 
@@ -212,9 +220,16 @@ th{
 }
 
 tr{
+  width: 300px;
 }
 
 td{
+    color: #e0d0b6;
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+    background-color: #b42114;
+    padding: 0px;
 }
 
 svg{

@@ -77,7 +77,7 @@ h1{
     background: #ffffff;
     margin-top: 20px;
     border: 0px solid #dccdb1d1;
-    border-image: url(border11.png) 31 61 46 round;
+    border-image: url(border11.png) 77 round;
     border-width: 64px;
 }
 

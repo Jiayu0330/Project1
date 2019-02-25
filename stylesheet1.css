@@ -176,8 +176,29 @@ table{
   margin: 0px auto;
 }
 
-.account_form{
+form.account_form{
+}
+
+.title{
+}
+
+input{
 }
 
 table img.person_image{
+}
+
+tbody{
+}
+
+th{
+}
+
+tr{
+}
+
+svg{
+}
+
+svg image.seat_pic{
 }

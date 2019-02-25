@@ -103,8 +103,8 @@ h1{
     background: #ffffff;
     margin-top: 20px;
     border: 5px solid #dccdb1d1;
-    border-image: url(border9.png) 33 round;
-    border-width: 40px;
+    border-image: url(border9.png) 35 45 38 50 round;
+    border-width: 36px 52px 36px 59px;
 }
 
 .day{

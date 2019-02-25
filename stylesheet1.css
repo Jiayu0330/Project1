@@ -87,7 +87,7 @@ h1{
 }
 
 .day-box.PREP a:hover{
-  color: #92211c;
+  color: #ffffffc7;
 }
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
@@ -107,7 +107,7 @@ h1{
 }
 
 .day-box.CURRENT a:hover{
-  color: #92211c;
+  color: #ffffffc7;
 }
 /* ---------------------------------------- */
 /* ----------Completed Section---------- */
@@ -127,7 +127,7 @@ h1{
 }
 
 .day-box.COMPLETED a:hover{
-  color: #92211c;
+  color: #ffffffc7;
 }
 
 .day{

@@ -34,11 +34,8 @@ img.person_image{
 }
 
 #nameSound25{
-
 }
-
 .nameSound25{
-
 }
 
 span.username{
@@ -181,12 +178,33 @@ table{
 }
 
 form.account_form{
+    width: 340px;
+    height: 500px;
+    position: fixed;
+    top: 10.4%;
+    left: 38%;
+    background-color: #bc783cbf;
+    text-align: center;
+    color: #5f403d;
 }
 
 .title{
+    background-color: #e2d2b8;
+    font-style: italic;
+    font-size: 30px;
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+    margin: 0px 10px 10px;
 }
 
 input{
+    background-color: #e2d2b7;
+    padding: 5px 5px;
+    font-size: 15px;
+}
+
+label{
 }
 
 table img.person_image{

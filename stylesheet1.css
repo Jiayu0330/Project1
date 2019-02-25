@@ -78,11 +78,8 @@ h1{
     background: #dccdb1d1;
     margin-top: 20px;
     border: 5px solid #dccdb1d1;
-    border-image-source: url(border6.png);
-    border-width: 40px;
-    border-image-slice: 30%;
-    border-image-repeat: round;
-    border-radius: 22px;
+    border-image: url(border5.png) 78 67 73 round;
+    border-width: 64px;
 }
 
 .day{

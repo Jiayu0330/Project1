@@ -56,7 +56,7 @@ span.username{
   transition: 0.3s;
 }
 
-.nav a:hover {
+.nav a:hover{
   color: #d6cebe;
 }
 /* ---------------------------------------- */
@@ -74,34 +74,46 @@ h1{
 .day-box.PREP{
     margin: auto;
     width: 40%;
-    padding: 5px;
     background: #ffffff;
     margin-top: 20px;
-    border: 5px solid #dccdb1d1;
-    border-image: url(border5.png) 78 67 73 round;
+    border: 0px solid #dccdb1d1;
+    border-image: url(border11.png) 31 61 46 round;
     border-width: 64px;
+}
+
+.day-box.PREP a{
+  padding: 10px 10px 10px 10px;
+  text-decoration: underline;
+  font-size: 25px;
+  color: #ead6bd;
+  display: block;
+  transition: 0.3s;
+}
+
+.day-box.PREP a:hover{
+  color: #d6cebe;
 }
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
 .day-box.CURRENT{
     margin: auto;
     width: 40%;
-    padding: 5px;
     background: #ffffff;
     margin-top: 20px;
     border: 5px solid #dccdb1d1;
-    border-image: url(border11.png) 31 61 46 round;
+    border-image: url(border9.png) 46 45 46 round;
     border-width: 64px;
 }
+/* ---------------------------------------- */
+/* ----------Completed Section---------- */
 .day-box.COMPLETED{
     margin: auto;
     width: 40%;
-    padding: 5px;
     background: #ffffff;
     margin-top: 20px;
     border: 5px solid #dccdb1d1;
-    border-image: url(border9.png) 35 45 38 50 round;
-    border-width: 36px 52px 36px 59px;
+    border-image: url(border5.png) 96 68 67 80 round;
+    border-width: 64px;    
 }
 
 .day{
@@ -129,8 +141,7 @@ h1{
 }
 
 .assignment-label{
+  font-weight:bold;
 }
 
-.grade{
-  
-}
+.

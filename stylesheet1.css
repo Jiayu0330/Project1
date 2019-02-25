@@ -168,6 +168,7 @@ h1{
 
 .assignment-label{
   font-weight:bold;
+  display: inline;
 }
 
 /* ---------------------------------------- */

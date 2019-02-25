@@ -16,19 +16,21 @@ body{
   z-index: 1;
   top: 250px;
   left: 10px;
-  background: rgb(146, 34, 28);
+  background: rgb(181, 33, 20);
   overflow-x: hidden;
 }
 
 .person_info{
-  background: #997467;
-  height: 120px;
+  background: #734e3c;
+  height: 125px;
 }
 
 img.person_image{
-  border: 5px solid #443028;
+  border: 4px solid #cba683;
   width: 110px;
   height: 80px;
+  margin-left: 5px;
+  margin-top: 5px;
 }
 
 #nameSound25{
@@ -40,11 +42,11 @@ img.person_image{
 }
 
 span.username{
-  padding: 8px 8px 8px 2px;
-  /* text-decoration: underline; */
-  font-size: 20px;
-  font-weight: bold;
-  color: #f3e5e0;
+    padding: 10px;
+    /* text-decoration: underline; */
+    font-size: 20px;
+    font-weight: bold;
+    color: #dab18d;
 }
 
 .nav a{
@@ -63,19 +65,23 @@ span.username{
 /* ----------Home Page---------- */
 h1{
     margin: auto;
-    background-color: #d2d2d2d6;
+    background-color: #d2d2d2b0;
     text-align: center;
     width: 30%;
     line-height: 68px;
-    font-family: cursive;
+    font-family: "Times New Roman";
+    color: #8c6159;
+    position: fixed;
+    left: 469px;
+    top: 10px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
 .day-box.PREP{
-    margin: auto;
     width: 40%;
     background: #ffffff;
-    margin-top: 20px;
+    margin-top: 100px;
+    margin-left: 335px;
     border: 0px solid #dccdb1d1;
     border-image: url(border11.png) 77 round;
     border-width: 64px;

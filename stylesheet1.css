@@ -57,7 +57,7 @@ span.username{
 }
 
 .nav a:hover{
-  color: #443028;
+  color: #502929;
 }
 /* ---------------------------------------- */
 /* ----------Home Page---------- */
@@ -87,7 +87,7 @@ h1{
 }
 
 .day-box.PREP a:hover{
-  color: #d6cebe;
+  color: #ead6bd;
 }
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
@@ -107,7 +107,7 @@ h1{
 }
 
 .day-box.CURRENT a:hover{
-  color: #d6cebe;
+  color: #ead6bd;
 }
 /* ---------------------------------------- */
 /* ----------Completed Section---------- */
@@ -127,7 +127,7 @@ h1{
 }
 
 .day-box.COMPLETED a:hover{
-  color: #d6cebe;
+  color: #ead6bd;
 }
 
 .day{

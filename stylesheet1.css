@@ -131,32 +131,32 @@ h1{
 }
 
 .day{
-  background-color: #e9d6ba;
+  background-color: #f1e2d9;
   padding: 10px;
   font-style:italic;
 }
 
 .reading-box{
-  background-color: #cea36d;
+  background-color: #cc884480;
   padding: 10px;
 }
 
 .grading-box{
-  background-color: #cc8f8f;
+  background-color: #c13f33a8;
   padding: 10px;
 }
 
 .prep-box{
-  background-color: #6f8faf;
+  background-color: #be4e338f;
   padding: 10px;
 }
 
 .assignment_link{
-  color: #92211c;
+  color: #502929;
 }
 
 .lab-box{
-  background-color: #c77a61;
+  background-color: #dc715b;
   padding: 10px;
 }
 

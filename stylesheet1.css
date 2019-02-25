@@ -80,8 +80,8 @@ h1{
 .day-box.PREP{
     width: 40%;
     background: #ffffff;
+    margin: auto;
     margin-top: 100px;
-    margin-left: 25.5%;
     border: 0px solid #dccdb1d1;
     border-image: url(border11.png) 77 round;
     border-width: 64px;

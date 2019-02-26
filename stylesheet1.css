@@ -341,7 +341,7 @@ h3{
     background-color: white;
 }
 
-audio a{
+#nameSound11 a{
     font-size: 10px;
     color: #633d36;
     background-color: white;
@@ -363,6 +363,6 @@ div input{
 
 .flash{
     position: fixed;
-    left: 30%;
+    left: 40%;
     top: 60%;
 }

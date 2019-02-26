@@ -266,7 +266,39 @@ svg image.seat_pic{
 }
 
 form.assignment_form{
+    padding: 100px 200px;
+    width: 50%;
+    margin: 0 100px;
 }
 
-form{
+.assignment_title{
+    background-color: #f1e5d6;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.assignment_prompt{
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+textarea.input_text{
+    background-color: #ffffff;
+    margin: 15px auto;
+}
+
+p{
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.rubric_score table{
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+form.assignment_form input{
+    color: #502929;
+    background-color: #f1e5d6;
 }

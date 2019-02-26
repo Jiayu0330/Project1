@@ -164,7 +164,7 @@ h1{
   padding: 10px;
 }
 
-assignmentWidget.ASSIGNED.assignment-label{
+.assignmentWidget.ASSIGNED.assignment-label{
   font-weight:bold;
   display: inline;
 }

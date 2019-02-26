@@ -303,3 +303,8 @@ form.assignment_form input{
     color: #502929;
     background-color: #f1e5d6;
 }
+/* peer grading*/
+h3{
+    padding: 50px;
+    margin: 100px 100px 100px 100px;
+}

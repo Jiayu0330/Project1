@@ -256,8 +256,9 @@ td{
 }
 
 svg{
-    margin: 100px 200px 200px 300px;
-    background-color: #e8d9c0;
+    border: 3px dashed #e2e2e2;
+    margin: 120px 210px 200px 350px;
+    background-color: #13243d;
     height: 500px;
 }
 

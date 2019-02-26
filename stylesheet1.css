@@ -287,6 +287,8 @@ form div.assignment_title{
 textarea.input_text{
     background-color: #e3d3b9;
     margin: 15px auto;
+    width: 98%;
+    height: 100px;
 }
 
 p{

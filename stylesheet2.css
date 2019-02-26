@@ -1,4 +1,9 @@
-p{
-    margin: 200px 200px 200px 200px;
-    width: 250px;
+body{
+  background-image: url(b5.jpg);
+  background-color: #cccccc;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #502929;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size:18px;
 }

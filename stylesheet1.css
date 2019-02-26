@@ -359,3 +359,9 @@ div input{
     top: 20%;
     left: 40%;
 }
+
+.flash{
+    position: fixed;
+    left: 30%;
+    top: 60%;
+}

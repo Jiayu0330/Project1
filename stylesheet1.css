@@ -334,7 +334,7 @@ h3{
     padding: 30px 0px 0px 0px;	
     margin: 0px 0px 0px 0px;
 }
-a.assignment_link{
+a.assignment_link.graded-assignment{
     margin: 0px 250px 0px;
     width: 250px;
 }

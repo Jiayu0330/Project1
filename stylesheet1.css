@@ -349,9 +349,11 @@ audio a{
     position: absolute;
 }
 
-div input{
+.username input{
     position: absolute;
-    margin: 350px;
+}
+
+div input{
 }
 
 .login{

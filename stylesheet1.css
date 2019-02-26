@@ -164,7 +164,7 @@ h1{
   padding: 10px;
 }
 
-.assignment-label{
+body > div.day-box.PREP > div.prep-box > a > div.assignment-label{
   font-weight:bold;
   display: inline;
 }

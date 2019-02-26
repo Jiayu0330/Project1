@@ -296,6 +296,7 @@ p{
 .rubric_score table{
     background-color: #ffffff;
     padding: 15px;
+    width: 400px;
 }
 
 form.assignment_form input{

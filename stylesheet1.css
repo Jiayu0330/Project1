@@ -309,12 +309,12 @@ h3{
     margin: 150px 150px 150px 150px;
 }
 .assignment-title{
-    padding: 100px;
+    padding: 100px 100px 0;
     margin: 0 100px;
     width: 250px;
 }
 .prompt{
-    padding: 100px;
+    padding: 20px 100px;
     margin: 0 100px;
     width: 250px;
 }

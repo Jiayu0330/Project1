@@ -1,1 +1,20 @@
+body {
+    background-image: url(b5.jpg);
+    background-color: #cccccc;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #f2e2c7;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 18px;
+    margin: 230px;
+    height: 50%;
+    width: 60%;
+}
 
+p{
+  background-color: #b82519;
+}
+
+ul{
+   background-color: #16243c;
+}

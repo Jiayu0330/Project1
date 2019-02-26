@@ -272,32 +272,32 @@ form.assignment_form{
     margin: 0 100px;
 }
 
-/*.assignment_title{
+form div.assignment_title{
     background-color: #f1e5d6;
     font-size: 20px;
     font-weight: bold;
     padding: 15px;
-}*/
+}
 
 .assignment_prompt{
-    background-color: #ffffff;
+    background-color: #e3d3b9;
     padding: 15px;
 }
 
 textarea.input_text{
-    background-color: #ffffff;
+    background-color: #e3d3b9;
     margin: 15px auto;
 }
 
 p{
-    background-color: #ffffff;
+    background-color: #e3d3b9;
     padding: 15px;
 }
 
 .rubric_score table{
-    background-color: #ffffff;
-    padding: 15px;
+    background-color: #e5d6b9;
     width: 400px;
+    margin: 30px 0px;
 }
 
 form.assignment_form input{

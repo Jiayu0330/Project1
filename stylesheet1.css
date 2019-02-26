@@ -321,5 +321,11 @@ h3{
 .view_text{
     padding: 20px 100px;
     margin: 0 100px;
-    width: 250px;}
+    width: 250px;
+}
+.grade-table tbody{
+    padding: 20px 100px 0px;
+    margin: 0 100px 0px;
+    width: 250px;
+}
 

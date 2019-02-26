@@ -348,3 +348,14 @@ audio a{
     padding: 2px;
     position: absolute;
 }
+
+div input{
+    position: absolute;
+    margin: 350px;
+}
+
+.login{
+    position: fixed;
+    top: 20%;
+    left: 40%;
+}

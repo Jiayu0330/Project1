@@ -10,14 +10,14 @@ body{
 }
 /* ----------Student info, links to other pages---------- */
 .header{
-  width: 180px;
-  height: 380px;
-  position: fixed;
-  z-index: 1;
-  top: 250px;
-  left: 10px;
-  background: rgb(181, 33, 20);
-  overflow-x: hidden;
+    width: 14%;
+    height: 49%;
+    position: fixed;
+    z-index: 1;
+    top: 33%;
+    left: 1%;
+    background: rgb(181, 33, 20);
+    overflow-x: hidden;
 }
 
 .person_info{
@@ -256,6 +256,9 @@ td{
 }
 
 svg{
+    margin: 100px 200px 200px 300px;
+    background-color: #e8d9c0;
+    height: 500px;
 }
 
 svg image.seat_pic{

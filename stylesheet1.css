@@ -10,19 +10,19 @@ body{
 }
 /* ----------Student info, links to other pages---------- */
 .header{
-    width: 14%;
-    height: 49%;
+    width: 180px;
+    height: 380px;
     position: fixed;
     z-index: 1;
-    top: 33%;
-    left: 1%;
+    top: 250px;
+    left: 10px;
     background: rgb(181, 33, 20);
     overflow-x: hidden;
 }
 
 .person_info{
     background: #16253f;
-    height: 34%;
+    height: 125px;
 }
 
 img.person_image{

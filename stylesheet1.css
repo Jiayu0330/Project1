@@ -317,14 +317,15 @@ h3{
     width: 250px;
 }*/
 .prompt{
-    padding: 20px 100px;
-    margin: 0 150px;
-    width: 250px;
+    margin: 100px 200px;
+    width: 70%;
+    background-color: #efddc5;
 }
 .view_text{
-    padding: 20px 100px;
-    margin: 0 150px;
-    width: 250px;
+    margin: 100px 200px;
+    width: 70%;
+    background-color: #16253f;
+    color: #ffffff;
 }
 .grade-table tbody{
     padding: 20px 100px 0px;

@@ -179,20 +179,21 @@ table{
 
 form.account_form{
     width: 340px;
-    height: 500px;
+    height: 610px;
     position: fixed;
     top: 10.4%;
     left: 38%;
-    background-color: #bc783cbf;
+    background-color: #bc783c;
     text-align: center;
     color: #5f403d;
+    border-radius: 110px;
 }
 
 .title{
     background-color: #e2d2b8;
     font-style: italic;
     font-size: 30px;
-    width: 300px;
+    width: 298px;
     height: 40px;
     padding: 10px;
     margin: 0px 10px 10px;
@@ -205,6 +206,7 @@ input{
 }
 
 label{
+    display: block;
 }
 
 table img.person_image{

@@ -11,10 +11,10 @@ body{
 /* ----------Student info, links to other pages---------- */
 .header{
     width: 180px;
-    height: 380px;
+    height: 520px;
     position: fixed;
     z-index: 1;
-    top: 250px;
+    top: 180px;
     left: 10px;
     background: rgb(181, 33, 20);
     overflow-x: hidden;
@@ -336,3 +336,15 @@ h3{
     background-color: #dfd5bc;
 }
 
+.partners{
+    color: #633d36;
+    background-color: white;
+}
+
+audio a{
+    font-size: 10px;
+    color: #633d36;
+    background-color: white;
+    padding: 2px;
+    position: absolute;
+}

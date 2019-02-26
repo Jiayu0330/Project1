@@ -270,7 +270,9 @@ form.assignment_form{
     width: 50%;
     margin: 0 100px;
 }
+.assignment-label.assignment_title{
 
+}
 .assignment_title{
     background-color: #f1e5d6;
     font-size: 20px;

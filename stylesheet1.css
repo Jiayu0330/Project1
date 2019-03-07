@@ -236,12 +236,12 @@ tbody{
 }
 
 th{
-    font-size: 22px;
-    font-family: "Times New Roman";
-    font-weight: bold;
-    color: #593635;
-    background-color: #ffffff;
-    padding: 10px;
+  font-size: 22px;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  color: #16253f;
+  background-color: #ffffff;
+  padding: 10px;
 }
 
 tr{
@@ -249,12 +249,12 @@ tr{
 }
 
 td{
-    color: #e0d0b6;
-    text-align: center;
-    font-style: italic;
-    font-size: 16px;
-    background-color: #b42114;
-    padding: 0px;
+  color: #f1e2cb;
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+  background-color: #16253f;
+  padding: 0px;
 }
 
 svg{
@@ -273,23 +273,40 @@ form.assignment_form{
     margin: 0 100px;
 }
 
-form div.assignment_title{
-    background-color: #f1e5d6;
-    font-size: 20px;
-    font-weight: bold;
-    padding: 15px;
+form .assignment_title{
+  background-color: #f1e2cb;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px;
+  color: #16253f;
 }
 
 .assignment_prompt{
-    background-color: #e3d3b9;
+  background-color: #16253f;
+  padding: 15px;
+}
+
+.assignment_prompt p{
+    background-color: #16253f;
     padding: 15px;
+    color: #f1e2cb;
 }
 
 textarea.input_text{
     background-color: #ffffff;
     margin: 15px auto;
-    width: 100%;
+    width: 99%;
     height: 100px;
+}
+
+.rubric_title{
+  background-color: #f1e2cb;
+  color: #16253f;
+  font-size: 22px;
+  font-weight: bold;
+  width: 24%;
+  margin-top: 50px;
+  margin-left: 40%;
 }
 
 p{
@@ -298,8 +315,8 @@ p{
 }
 
 .rubric_score table{
-    background-color: #e5d6b9;
-    width: 400px;
+    background-color: #f1e2cb;
+    width: 100%;
     margin: 30px 0px;
 }
 
